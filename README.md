@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Heny Bravo</h1>
+<h1 align="center">Hi 👋, I'm Henry Bravo</h1>
 <h3 align="center">A passionate react developer from Perú</h3>
 
 - 🔭 I’m currently working on [react native app for sales](https://github.com/henrybravos/ecocont_app)
