@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry Bravo</h1>
 <h3 align="center">A passionate react developer from Perú</h3>
 
-- 🔭 I’m currently working on [next, golang, react telemedicine app](https://github.com/henrybravos/ecocont_app)
+- 🔭 I’m currently working on [next, golang, react telemedicine app](https://github.com/henrybravos/telemed)
 
 - 🌱 I’m currently learning **architect golang**
 
